@@ -1,0 +1,22 @@
+# .cub Map template
+
+# Wall textures
+NO ./textures/bluestone.xpm
+SO ./textures/colorstone.xpm
+WE ./textures/eagle.xpm
+EA ./textures/wood.xpm
+
+# Floor and ceiling colors (R,G,B) [0,255]
+F	10, 20, 30
+C	255, 0, 230
+
+# Map
+# 1 = wall, 0 = no wall, space = outer space padding
+# Player spawn defined by one of [N S E W] indicating starting compass facing
+
+ 1 11
+1S1001
+101001
+101011
+100001
+ 1111 

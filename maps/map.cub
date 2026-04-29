@@ -1,7 +1,7 @@
-NO textures/texture-01.xpm
-SO textures/texture-02.xpm
-WE textures/texture-03.xpm
-EA textures/texture-04.xpm
+NO ./textures/bluestone.xpm
+SO ./textures/colorstone.xpm
+WE ./textures/eagle.xpm
+EA ./textures/wood.xpm
 
 C 91,166,252
 F 224,184,144

@@ -1,7 +1,0 @@
-NO ./textures/bluestone.xpm
-SO ./textures/colorstone.xpm
-WE ./textures/eagle.xpm
-EA ./textures/wood.xpm
-
-F          50  ,  50  ,  50   
-C           256  ,   30    , 5 
